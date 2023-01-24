@@ -1,0 +1,2 @@
+@keyframes time{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.container{display:flex;justify-content:center;margin:100px}.arrow{width:10px;border-radius:5px;transform-origin:bottom}.arrow--minutes{position:absolute;background-color:red;height:150px;margin-top:50px;animation:time 3600s linear infinite}.arrow--second{position:relative;height:200px;animation:time 60s linear infinite}.arrow--second,.circle{background-color:#4169e1}.circle{z-index:1;position:absolute;border-radius:50%;width:20px;height:20px;top:290px}
+/*# sourceMappingURL=main.e5db86e1.css.map */
